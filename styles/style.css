@@ -1,0 +1,106 @@
+*{
+    margin: 0px;
+}
+#hdr {
+    border: 1px solid none;
+    margin:5px;
+    padding:13px;
+
+
+}
+.mnu {
+    padding:45px;
+    text-decoration: none;
+    color:black
+}
+.mnu:hover{
+    color:red;
+    
+}
+#hmb {
+    height: 400px;
+    background-image: url('../Images/christopher-gower-m_HRfLhgABo-unsplash.jpg');
+    background-size: cover;
+
+    
+
+}
+.bp {
+    margin: 20px;
+    padding:5px;
+    text-align: justify;
+    border: 3px solid salmon;
+    border-radius: 8px;
+    box-shadow: 10px 10px 10px skyblue;
+    border-bottom:none;
+    border-right:none;
+
+}
+.IM {
+    height: 300px;
+    
+}
+.imi {
+    margin: 3px;
+    width:230px;
+    display: inline-block;
+    padding: 05px;
+}
+#Listcontent {
+    margin: 2px;
+    display:inline-block;
+    height: 300px;
+    margin-top: none;
+    
+
+}
+.list {
+    float: left;
+    display: inline-block;
+    border:2px solid;
+    margin: 5px;
+    padding: 25px;
+    margin-left:20px;
+    box-shadow: 1px 1px 15px rgba(82, 246, 1, 0.426);
+}
+
+.h2l {
+    text-align: center;
+    margin:5px;
+    padding:5px;
+    font-family:'Times New Roman', Times, serif;
+}
+.form{
+    margin: 20px;
+    padding: 25px;
+    border:2px solid red;
+    box-shadow: 5px 6px 20px rgb(103, 27, 255);
+    margin-left: 20px;
+    text-align: center;
+    border-radius: 20px;
+
+}
+#smit {
+    background-color: rgb(251, 8, 8);
+    border:1px solid white;
+    border-radius: 20px;
+    color:white;
+    padding: 5px;
+}
+#smit:hover {
+    
+    background-color: rgb(2, 255, 19);
+    border:1px solid white;
+}
+#ftr {
+    background-color: black;
+    height:150px;
+    border-radius: 7px 7px 0px 0px;
+}
+.txt{
+    margin: 20px;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top:70px;
+}
